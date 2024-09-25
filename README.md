@@ -1,5 +1,7 @@
 # openwebui-demo
 
+![Open WebUI](img/openwebui-ollama-docker.png)
+
 ### How to Setting Up NVIDIA GPU support with windows WSL 2 and Docker on Ubuntu LTS
 
 In this demo video (Bahasa): [Menjalankan ChatGPT secara lokal menggunakan docker openwebui dengan model phi3.5](https://youtu.be/o-A27OlPWcw)
