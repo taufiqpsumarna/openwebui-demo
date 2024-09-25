@@ -14,7 +14,7 @@ services:
      - ollama
 
   ollama:
-    image: ollama/ollama
+    image: ollama/ollama:latest
     expose:
      - 11434/tcp
     ports:
