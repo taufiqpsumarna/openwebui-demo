@@ -133,5 +133,6 @@ Feel free to dive into the configuration files and experiment with different set
 - [Docker Documentation](https://docs.docker.com/)
 - [OpenWebUI GitHub Repository](https://github.com/open-webui/OpenWebUI)
 - [Ollama Model](https://ollama.com/library)
+- [Ollama Repository](https://github.com/ollama/ollama)
 - [NVIDIA Docker Documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker)
 - [WSL Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install)
